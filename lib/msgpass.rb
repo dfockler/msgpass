@@ -1,8 +1,2 @@
-require 'msgpass/client'
-require 'msgpass/server'
-
-module MsgPass
-	
-	
-
-end
+require './msgpass/client.rb'
+require './msgpass/server.rb'
